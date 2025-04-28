@@ -1,0 +1,10 @@
+[package]
+name = "Kokoro-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+candle-core = "0.7.2"
+candle-nn = "0.7.2"
+candle-transformers = "0.7.2"
+ndarray = { version = "0.9.0-alpha.1" }
